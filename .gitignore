@@ -1,0 +1,33 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/Editor/AssetStoreTools/
+/UserSettings/
+/Logs/
+/ProjectSettings/ProjectVersion.txt
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+# Rider
+.idea/
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# Misc
+*.bak
+*.orig
+*.meta.orig
+*.unitypackage
